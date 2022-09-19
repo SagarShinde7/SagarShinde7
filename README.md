@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SagarShinde7
 - 👀 I’m interested in web developing 
-- 🌱 I’m currently learning full stack web development 
+- 🌱 I’m currently aspiring full stack web development 
 - 💞️ I’m looking to collaborate on LinkedIn 
 
 <!---
